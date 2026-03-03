@@ -1,0 +1,132 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "织月浏览器"
+    },
+    {
+      "name": "apply_for_network",
+      "value": "联网用于浏览网页"
+    },
+    {
+      "name": "ByGenouka",
+      "value": "本应用由独立开发者[秋冥散雨_GenOuka]开发。"
+    },
+    {
+      "name": "Thanks",
+      "value": "感谢您的使用！如果觉得好用请在应用商店给我们满分好评喵~"
+    },
+    {
+      "name": "Bilibili",
+      "value": "B站:秋冥散雨_GenOuka"
+    },
+    {
+      "name": "QQGroup",
+      "value": "QQ交流群:1087366295"
+    },
+    {
+      "name": "History",
+      "value": "历史记录"
+    },
+    {
+      "name": "EmptyHistory",
+      "value": "空空如也。\n\n去浏览一些你感兴趣的网页吧~"
+    },
+    {
+      "name": "UpPadding",
+      "value": "上衬"
+    },
+    {
+      "name": "AllPadding",
+      "value": "外衬"
+    },
+    {
+      "name": "searchButton",
+      "value": "搜索"
+    },
+    {
+      "name": "WideViewport",
+      "value": "宽视口"
+    },
+    {
+      "name": "PcUA",
+      "value": "电脑UA"
+    },
+    {
+      "name": "AllowOpenDeepLink",
+      "value": "允许网页拉起应用"
+    },
+    {
+      "name": "SmartFollowBan",
+      "value": "智能防跟踪"
+    },
+    {
+      "name": "Dark",
+      "value": "暗色"
+    },
+    {
+      "name": "ForceDark",
+      "value": "强制暗色"
+    },
+    {
+      "name": "EnteringStar",
+      "value": "收藏..."
+    },
+    {
+      "name": "EnteringHistory",
+      "value": "历史记录..."
+    },
+    {
+      "name": "WebScale",
+      "value": "比例缩放"
+    },
+    {
+      "name": "WebScaleByCrown",
+      "value": "表冠缩放"
+    },
+    {
+      "name": "MediaVolumn",
+      "value": "媒体音量"
+    },
+    {
+      "name": "About",
+      "value": "关于"
+    },
+    {
+      "name": "ClickCloseMenu",
+      "value": "点击空白处\n或继续向上滑动\n关闭菜单~"
+    },
+    {
+      "name": "Star",
+      "value": "收藏"
+    },
+    {
+      "name": "EmptyStar",
+      "value": "空空如也。\n\n在你喜欢的页面点击菜单的星星可以添加收藏~"
+    },
+    {
+      "name": "Loading",
+      "value": "加载中..."
+    },
+    {
+      "name": "DrawPrivacy",
+      "value": "撤销隐私政策"
+    },
+    {
+      "name": "Share",
+      "value": "分享"
+    },
+    {
+      "name": "Language",
+      "value": "英文/English"
+    }
+  ]
+}

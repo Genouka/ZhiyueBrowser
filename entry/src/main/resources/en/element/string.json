@@ -1,0 +1,132 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Zhiyue Browser"
+    },
+    {
+      "name": "apply_for_network",
+      "value": "Internet access required for web browsing"
+    },
+    {
+      "name": "ByGenouka",
+      "value": "Developed by independent developer [GenOuka]."
+    },
+    {
+      "name": "Thanks",
+      "value": "Thanks for using! If you like it, please give us a 5-star rating on the app store~"
+    },
+    {
+      "name": "Bilibili",
+      "value": "Bilibili: 秋冥散雨_GenOuka"
+    },
+    {
+      "name": "QQGroup",
+      "value": "QQ Group: 1087366295"
+    },
+    {
+      "name": "History",
+      "value": "History"
+    },
+    {
+      "name": "EmptyHistory",
+      "value": "Nothing here yet.\n\nGo explore some web pages you're interested in~"
+    },
+    {
+      "name": "UpPadding",
+      "value": "Toolbar"
+    },
+    {
+      "name": "AllPadding",
+      "value": "Margin"
+    },
+    {
+      "name": "searchButton",
+      "value": "Search"
+    },
+    {
+      "name": "WideViewport",
+      "value": "Wide Viewport"
+    },
+    {
+      "name": "PcUA",
+      "value": "Desktop UA"
+    },
+    {
+      "name": "AllowOpenDeepLink",
+      "value": "Allow websites to open apps"
+    },
+    {
+      "name": "SmartFollowBan",
+      "value": "Smart Anti-Tracking"
+    },
+    {
+      "name": "Dark",
+      "value": "Dark Mode"
+    },
+    {
+      "name": "ForceDark",
+      "value": "Force Dark Mode"
+    },
+    {
+      "name": "EnteringStar",
+      "value": "Bookmarks..."
+    },
+    {
+      "name": "EnteringHistory",
+      "value": "History..."
+    },
+    {
+      "name": "WebScale",
+      "value": "Page Zoom"
+    },
+    {
+      "name": "WebScaleByCrown",
+      "value": "Crown Zoom"
+    },
+    {
+      "name": "MediaVolumn",
+      "value": "Media Volume"
+    },
+    {
+      "name": "About",
+      "value": "About"
+    },
+    {
+      "name": "ClickCloseMenu",
+      "value": "Tap empty space\nor swipe up to close menu~"
+    },
+    {
+      "name": "Star",
+      "value": "Bookmarks"
+    },
+    {
+      "name": "EmptyStar",
+      "value": "Nothing here yet.\n\nTap the star in the menu to bookmark your favorite pages~"
+    },
+    {
+      "name": "Loading",
+      "value": "Loading..."
+    },
+    {
+      "name": "DrawPrivacy",
+      "value": "Reject TOS"
+    },
+    {
+      "name": "Share",
+      "value": "Share"
+    },
+    {
+      "name": "Language",
+      "value": "中文/Chinese"
+    }
+  ]
+}
